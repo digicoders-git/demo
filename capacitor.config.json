@@ -1,5 +1,9 @@
 {
   "appId": "com.crmbyved.app",
   "appName": "crmemployeepanel",
-  "webDir": "dist"
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https",
+    "cleartext": true
+  }
 }
